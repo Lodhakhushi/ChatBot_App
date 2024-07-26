@@ -26,7 +26,7 @@ TextStyle mTextStyle25({Color mColor = Colors.black, FontWeight mFontWeight = Fo
 
 TextStyle mTextStyle12({Color mColor = Colors.black, FontWeight mFontWeight = FontWeight.normal}){
   return TextStyle(
-    fontSize: 12,
+    fontSize: 14,
     fontFamily: 'mainFont',
     color: mColor,
     fontWeight: mFontWeight,
